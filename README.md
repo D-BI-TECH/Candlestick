@@ -1,7 +1,7 @@
 # Candlestick 
 
      
-![candlestick_screenshot](https://img-blog.csdnimg.cn/20200428144749563.png)
+![candlestick_screenshot](https://img-blog.csdnimg.cn/20200428145723482.png)
 
 ### Version 
 
