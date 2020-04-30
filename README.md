@@ -15,7 +15,7 @@ The Candlestick is a powerbi custom-visual dedicated to analyzing historical dat
 
 Htmlwidget; XML; GGPlot2; Plotly
 
-### Feature
+### Features
 
 ![candlestick_feature](https://img-blog.csdnimg.cn/20200428133125923.png)
 
